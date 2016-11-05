@@ -6,7 +6,7 @@ Slug: article
 Author: zaka
 Summary: article 1
 
-![](http://zaka1.github.io/image1.png)
+![](/image1.png)
 
 條件:python27
 
