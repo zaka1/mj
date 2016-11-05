@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>A Pelican Blog</title><link>/</link><description></description><lastBuildDate>Sat, 05 Nov 2016 15:45:00 +0000</lastBuildDate><item><title>this is my test article</title><link>/article.html</link><description>&lt;p&gt;&lt;img alt="" src="http://images.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;條件:python27&lt;/p&gt;
+&lt;p&gt;自動生成 pelican-quickstart&lt;/p&gt;
+&lt;p&gt;產生網頁(在content下) pelican content&lt;/p&gt;
+&lt;p&gt;在地觀看網頁(在output下) python -m SimpleHTTPServer&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">zaka</dc:creator><pubDate>Sat, 05 Nov 2016 15:45:00 +0000</pubDate><guid isPermaLink="false">tag:,2016-11-05:article.html</guid><category>pelican</category><category>publishing</category></item></channel></rss>
